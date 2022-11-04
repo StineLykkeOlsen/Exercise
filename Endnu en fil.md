@@ -1,0 +1,1 @@
+Skriver lige noget mere til at gemme i en fil, der kan gemmes i en directory, som kan gemmes i et repository.
