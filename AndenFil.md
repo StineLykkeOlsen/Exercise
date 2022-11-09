@@ -1,6 +1,6 @@
 Endnu en tekstfil. Jeg skal øve mig på at merge.
 
-Noch eine Text-Datei.
+Noch eine Text-Datei. Ganz lecker.
 
 Ich mache einige Änderungen.
 
