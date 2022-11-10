@@ -10,4 +10,4 @@ Her er en linje mere.
 
 Den er altså meget fin.
 
-Wo xianzai xie yi pian guoji de wenjian.
+Wo xianzai xie yi pian guoji de wenjian. Hao le.
