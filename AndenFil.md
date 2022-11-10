@@ -1,4 +1,4 @@
-Endnu en tekstfil. Jeg skal øve mig på at merge.
+Endnu en tekstfil. Jeg skal øve mig på at merge branches.
 
 Noch eine Text-Datei!! Ganz lecker.
 
@@ -9,3 +9,5 @@ Mit **Fettem** Schrift.
 Her er en linje mere. 
 
 Den er altså meget fin.
+
+Jeg skriver ikke-permante ting her. 
