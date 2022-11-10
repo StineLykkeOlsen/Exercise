@@ -1,4 +1,4 @@
-Endnu en tekstfil. Jeg skal øve mig på at merge branches.
+Endnu en tekstfil. Jeg skal øve mig på at merge mange sætninger ind i hinanden.
 
 Noch eine Text-Datei!! Ganz lecker.
 
